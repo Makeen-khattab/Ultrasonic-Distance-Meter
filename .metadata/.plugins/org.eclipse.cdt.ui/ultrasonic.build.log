@@ -1,0 +1,7 @@
+00:13:46 **** Clean-only build of configuration Debug for project ultrasonic ****
+make clean 
+rm -rf  ./icu.o ./ultrasonic.o  sizedummy  ultrasonic.lss  ./icu.d ./ultrasonic.d  ultrasonic.elf
+ 
+
+00:13:46 Build Finished. 0 errors, 0 warnings. (took 313ms)
+
